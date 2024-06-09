@@ -2404,5 +2404,4 @@
   'ab' => 'Ab',
   'has just subscribed to groFresh1.1 newsletter' => 'Vừa đăng ký nhận bản tin Grofresh1.1',
   'Your Account Has Been Reopened By Admin !' => 'Tài khoản của bạn đã được quản trị viên mở lại!',
-
 );
